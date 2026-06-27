@@ -1,4 +1,4 @@
-# 🚀 ProjectForge AI
+# ProjectForge AI
 
 > **AI-Powered Software Project Planning Platform**
 
